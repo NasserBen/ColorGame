@@ -1,4 +1,4 @@
-#Simon Game 
+#Simon Game
 
 Objective: Memorize the sequence of colors one by one (meant for desktop)
 
