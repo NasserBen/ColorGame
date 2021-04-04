@@ -1,1 +1,1 @@
-First Html, CSS, and Js site.
+Simon Game created using HTML CSS JS
