@@ -1,4 +1,4 @@
-#Simon Game
+<h1>Simon Game</h1>
 
 Objective: Memorize the sequence of colors one by one (meant for desktop)
 
